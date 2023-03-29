@@ -16,13 +16,13 @@ https://user-images.githubusercontent.com/106714068/228687574-9bc86ebb-6a72-4a34
 
 ## 📌 Features
 - [x] User
-  -[x] Login
-  -[x] Cadastro
-  -[x] Editar informações de cadastro
+  - [x] Login
+  - [x] Cadastro
+  - [x] Editar informações de cadastro
 - [x] Clientes
   - [X] Adicionar cliente
   - [x] Listar clientes
-  - [x] Editar informaçẽos do cliente
+  - [x] Editar informações do cliente
   - [X] Deletar cliente
   
 ## 🛠️ Tecnologias
